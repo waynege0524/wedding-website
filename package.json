@@ -1,20 +1,17 @@
 {
-  "name": "wedding-website",
+  "name": "",
   "version": "1.0.0",
   "description": "A wedding website with loads of features.",
   "main": "npmfile.js",
   "scripts": {
-    "start": "node index.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node npmfile.js"
   },
   "repository": {
     "type": "git",
     "url": "git+ssh://git@github.com:rampatra/wedding-website.git"
   },
   "keywords": [
-    "wedding",
-    "template",
-    "website template"
+    "node"
   ],
   "author": "Ram Patra",
   "license": "GPL-3.0",
