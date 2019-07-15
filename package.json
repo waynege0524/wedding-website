@@ -1,10 +1,10 @@
 {
-  "name": "",
+  "name": "Wayne",
   "version": "1.0.0",
   "description": "A wedding website with loads of features.",
-  "main": "npmfile.js",
+  "main": "index.js",
   "scripts": {
-    "start": "node npmfile.js"
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
@@ -20,7 +20,9 @@
     "gulp": "^3.9.1",
     "gulp-rename": "^1.2.2",
     "gulp-sass": "^4.0.2",
-    "gulp-uglify": "^3.0.0"
+    "gulp-uglify": "^3.0.0",
+    "ejs": "^2.5.9",
+    "express": "^4.16.3"
   },
   "dependencies": {
     "animate.css": "^3.5.2",
