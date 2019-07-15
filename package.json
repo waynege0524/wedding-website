@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com:rampatra/wedding-website.git"
+    "url": "git+https://github.com/waynege0524/wedding-website.git"
   },
   "keywords": [
     "node"
   ],
-  "author": "Ram Patra",
+  "author": "Wayne",
   "license": "GPL-3.0",
-  "homepage": "https://github.com/rampatra/wedding-website",
+  "homepage": "https://github.com/waynege0524/wedding-website",
   "devDependencies": {
     "gulp": "^3.9.1",
     "gulp-rename": "^1.2.2",
